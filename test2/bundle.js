@@ -7,7 +7,7 @@ var $ = require("jquery");
 // console.log(unique(data));
 
 $(document).ready(function() {
-  console.log("Test8");
+  console.log("Test9");
 });
 
 },{"jquery":2}],2:[function(require,module,exports){

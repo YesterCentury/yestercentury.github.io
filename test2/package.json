@@ -23,7 +23,8 @@
     "watchify": "latest"
   },
   "scripts": {
-    "build": "browserify development/js/app.js > bundle.js | watchify development/js/app.js -o bundle.js"
+    "build": "browserify development/js/app.js > bundle.js",
+    "watchify": "watchify development/js/app.js -o bundle.js"
   },
   "author": "",
   "license": "ISC"

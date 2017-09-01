@@ -1,0 +1,1 @@
+console.error("Error: Cannot find module 'C:\\MAMP\\htdocs\\test\\js\\main.js' from 'C:\\MAMP\\htdocs\\test'");

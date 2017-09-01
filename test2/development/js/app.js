@@ -6,5 +6,5 @@ var $ = require("jquery");
 // console.log(unique(data));
 
 $(document).ready(function() {
-  console.log("Test8");
+  console.log("Test4");
 });
